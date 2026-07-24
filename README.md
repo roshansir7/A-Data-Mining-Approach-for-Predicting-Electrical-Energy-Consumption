@@ -187,3 +187,9 @@ It provides experience in:
 * Closely related electrical variables may introduce data leakage when predicting active power.
 * Additional testing on unseen time periods would improve confidence in model generalisation.
 * The notebook is designed for experimentation rather than production deployment.
+
+## Project Collaboration
+
+This project was completed by a team of three members.
+
+I completed the main technical work, including data preparation, exploratory data analysis, feature engineering, machine-learning model development, model evaluation, visualisation and documentation. The other team members contributed to research, discussion, presentation preparation and project review.
